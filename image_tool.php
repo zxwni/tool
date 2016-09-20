@@ -1,31 +1,4 @@
 
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @zxwni
-
-1
-0
-
-    0
-
-zxwni/Image_tool
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Pulse
-Graphs
-Settings
-Image_tool/image
-b03b347 6 days ago
-@zxwni zxwni Create image
-201 lines (189 sloc) 4.14 KB
 <?php
 class Imgick_tool{
 	
@@ -131,7 +104,7 @@ class Imgick_tool{
 			return false;
 		}
 	}
-	
+	 
 	/*
 	 * 图片瘦身
 	 * 
